@@ -5,11 +5,11 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "budil-css":"node index.js"
+    "budil-css": "node index.js"
   },
-"bin":{
-  "generate:theme":"./cli.js"
-},
+  "bin": {
+    "generate:theme": "./cli.js"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
